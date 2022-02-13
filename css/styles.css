@@ -16,7 +16,8 @@
 .jumbotron {
   margin: 0px auto;
   padding: 70px, 30px;
-  color: floralwhite; }
+  color: floralwhite;
+  background: #9575cd; }
 
 address {
   font-size: 80%;
@@ -50,3 +51,10 @@ body {
   position: absolute;
   right: 0;
   bottom: 0px; }
+
+.modal-header {
+  background-color: #512da8;
+  color: #d1c4e9; }
+
+.modal-body {
+  background-color: #d1c4e9; }
